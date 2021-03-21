@@ -1,0 +1,1 @@
+{"name":"Local: largest_word_in_sent","url":"/home/dushant/c++/largest_word_in_sent.cpp","tests":[{"id":1607838487024,"input":"10\ndo or die","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/dushant/c++/largest_word_in_sent.cpp","group":"local","local":true}

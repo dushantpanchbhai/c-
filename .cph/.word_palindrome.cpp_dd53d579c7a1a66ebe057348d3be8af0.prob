@@ -1,0 +1,1 @@
+{"name":"Local: word_palindrome","url":"/home/dushant/c++/word_palindrome.cpp","tests":[{"id":1607838355106,"input":"5\nnitil","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/dushant/c++/word_palindrome.cpp","group":"local","local":true}
